@@ -15,4 +15,4 @@ In another terminal, start the server:
 
 ** Step 3 :  Run the Client Application**
 Finally, in another terminal, run the client application:
- java MyClient
+ java MyClient ..
